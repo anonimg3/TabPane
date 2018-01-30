@@ -1,0 +1,27 @@
+/*
+    The tab bar
+*/
+
+.root{
+    -fx-font-size: 14px;
+}
+
+.jfx-tab-pane .tab-header-background {
+    -fx-background-color: black;
+}
+.jfx-tab-pane .tab-header-area .headers-region .tab-selected-line {
+    -fx-background-color: blue;
+}
+
+
+.jfx-tab-pane .tab {
+
+    -fx-background-color: black;
+
+}
+
+.jfx-tab-pane .tab .tab-label {
+    -fx-font-size: 1.2em;
+}
+
+
